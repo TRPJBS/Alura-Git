@@ -209,3 +209,5 @@ print("\nConsolidação realizada com sucesso!\n")
 print("O Arquivo '", nome_arquivo, "' foi gerado na seguinte pasta: \n\n", os.getcwd())
 print("\nTempo de execução: ", "{:.2f}".format(tempoexec), "minutos")
 fim = input("Pressione 'Enter' para finalizar!")
+
+## Alteração para git
