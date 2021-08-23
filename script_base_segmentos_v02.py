@@ -211,3 +211,4 @@ print("\nTempo de execução: ", "{:.2f}".format(tempoexec), "minutos")
 fim = input("Pressione 'Enter' para finalizar!")
 
 ## Alteração para git
+## Alteração Ana para teste git
